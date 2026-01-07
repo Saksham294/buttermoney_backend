@@ -15,7 +15,22 @@ A simple backend project built using **Node.js, Express, and PostgreSQL** that a
 
 ---
 
+# Setup
 
+1.Fork the repository
+
+2.Clone the repository
+```
+git clone https://github.com/Saksham294/buttermoney_backend.git
+```
+Switch to folder
+```
+cd buttermoney_backend
+```
+3.Install the dependencies
+   ```
+   npm i
+   ```
 ## Environment variables
 ```
 DB_USER=db_user_name 
